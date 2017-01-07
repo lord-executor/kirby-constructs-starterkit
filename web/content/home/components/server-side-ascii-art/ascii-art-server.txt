@@ -1,0 +1,5 @@
+Title: Server Side Ascii Art
+
+----
+
+Text: Hello from the Server

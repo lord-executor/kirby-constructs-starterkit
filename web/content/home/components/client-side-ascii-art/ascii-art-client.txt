@@ -1,0 +1,5 @@
+Title: Client Side Ascii Art
+
+----
+
+Text: Hello JS World!

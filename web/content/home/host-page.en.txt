@@ -1,0 +1,5 @@
+Title: Components Demo 1
+
+----
+
+Text: This is a page that is primarily constructed from components

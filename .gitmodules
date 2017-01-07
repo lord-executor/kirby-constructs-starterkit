@@ -1,0 +1,12 @@
+[submodule "web/kirby"]
+	path = web/kirby
+	url = https://github.com/getkirby/kirby.git
+[submodule "web/panel"]
+	path = web/panel
+	url = https://github.com/getkirby/panel.git
+[submodule "web/site/plugins/constructs"]
+	path = web/site/plugins/constructs
+	url = https://github.com/lord-executor/kirby-constructs.git
+[submodule "web/site/constructs/sample-construct"]
+	path = web/site/constructs/sample-construct
+	url = https://github.com/lord-executor/kirby-constructs-sample.git
